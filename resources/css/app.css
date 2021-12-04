@@ -1,0 +1,12 @@
+body {
+    background: lightblue;
+}
+footer, header {
+    margin-left: 10%;
+    width: 80%;
+}
+.jumbotron {
+    background: #dee0e4;
+    padding: 20px 10px;
+}
+
